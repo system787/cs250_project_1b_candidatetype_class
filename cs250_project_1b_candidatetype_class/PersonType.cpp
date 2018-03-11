@@ -1,9 +1,11 @@
-//
-//  PersonType.cpp
-//  project 1
-//
-//  Created by Vincent Hoang on 3/3/18.
-//
+/*
+    Hoang, Vincent
+ 
+    CS A250
+    March 10, 2018
+ 
+    Project 1B
+ */
 
 #include <iostream>
 #include <string>

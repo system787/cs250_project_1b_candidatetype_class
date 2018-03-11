@@ -1,10 +1,11 @@
-//
-//  CandidateType.h
-//  cs250_project_1b_candidatetype_class
-//
-//  Created by Vincent Hoang on 3/10/18.
-//  Copyright © 2018 Vincent Hoang. All rights reserved.
-//
+/*
+ Hoang, Vincent
+ 
+ CS A250
+ March 10, 2018
+ 
+ Project 1B
+ */
 
 #ifndef CandidateType_h
 #define CandidateType_h
@@ -25,7 +26,7 @@ public:
     
     void printCandidateInfo() const;
     void printCandidateTotalVotes() const;
-    void printCandidateDivisionVotes() const;
+    void printCandidateDivisionVotes(const int) const;
     
     ~CandidateType() {}
 };

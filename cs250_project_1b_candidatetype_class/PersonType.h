@@ -8,6 +8,8 @@
 #ifndef PersonType_h
 #define PersonType_h
 
+#include <string>
+
 class PersonType {
 private:
     std::string mFirstName;
